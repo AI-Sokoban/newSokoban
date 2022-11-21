@@ -1,0 +1,6 @@
+Finished at: 21/11/2022, 14:34:35
+Number of action: 23
+Action : rrDulldRRurDrddllURuulD 
+Time usage: 1.2889540195465088 seconds
+Memory usage: 33.5 bytes
+
