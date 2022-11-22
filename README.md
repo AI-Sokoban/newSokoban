@@ -1,3 +1,3 @@
-SOKOBAN Solver
+SOKOBAN 2
 ==============================
 
